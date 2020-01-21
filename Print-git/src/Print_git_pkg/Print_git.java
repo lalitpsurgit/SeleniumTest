@@ -4,8 +4,8 @@ public class Print_git {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("added project to git");
-		System.out.println("added project to git-2");
+		//System.out.println("added project to git");
+		//System.out.println("added project to git-2");
 	}
 
 }
